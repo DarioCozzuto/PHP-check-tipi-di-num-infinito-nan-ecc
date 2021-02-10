@@ -1,0 +1,1 @@
+# PHP-check-tipi-di-num-infinito-nan-ecc
